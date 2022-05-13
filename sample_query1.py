@@ -1,5 +1,4 @@
-import codecademylib
-from matplotlib import pyplot as plt
+import matplotlib.pyplot as plt
 
 drinks = ["cappuccino", "latte", "chai", "americano", "mocha", "espresso"]
 ounces_of_milk = [6, 9, 4, 0, 9, 0]
